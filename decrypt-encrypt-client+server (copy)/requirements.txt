@@ -1,0 +1,9 @@
+#WebSocket library to handle WebSocket connections
+websockets==11.0.3
+
+#for later shuush
+cryptography==39.0.1
+
+#Python version 
+python_version>=3.7
+
