@@ -8,5 +8,4 @@ i spent to much time trying to make this
 ![Untitled](https://github.com/user-attachments/assets/a8cd81c9-ab7a-4224-8a95-dc4cf23dbd0d)
 
 
- <a href='https://www.free-counters.org/'>Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=c550f7023ef7a1d724edd1f855ea07da84911b4c'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1233219/t/0"></script>
+![GitHub Stars](https://img.shields.io/github/stars/ROBLOXFEETRADNOTI4EVER/decrypt-encrypt-server?style=social)
