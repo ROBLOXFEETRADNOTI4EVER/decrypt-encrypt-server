@@ -8,4 +8,4 @@ i spent to much time trying to make this
 ![Untitled](https://github.com/user-attachments/assets/a8cd81c9-ab7a-4224-8a95-dc4cf23dbd0d)
 
 
-![GitHub Stars](https://img.shields.io/github/stars/ROBLOXFEETRADNOTI4EVER/decrypt-encrypt-server?style=social)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ROBLOXFEETRADNOTI4EVER/decrypt-encrypt-server&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
