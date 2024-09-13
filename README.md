@@ -1,3 +1,5 @@
+2024 September 13th update mission aborted for now project cancelled due to lack of mmotivation and my programing skills
+
 # decrypt-encrypt-server
 server (for encrypting and decrypting data and transfering) only with register with a check  no login yet 
 
